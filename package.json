@@ -1,0 +1,30 @@
+{
+    "name" : "floatjs",
+    "version" : "0.0.1",
+    "description" : "Javascript lirayr for 8bit Float",
+    "author": "Radhwane Chebaane <radhwane.chebaane@eurecom.fr>",
+    "contributors": [
+        { "name": "Radhwane Chebaane", "email": "radhwane.chebaane@eurecom.fr" }
+    ],
+    "homepage": "http://github.com/radcheb/Float.Js",
+    "repository" : {
+        "type" : "git",
+        "url" : "http://github.com/radcheb/Float.Js.git"
+    },
+    "engine" : {
+        "node": ">=0.4.0"
+    },
+    "dependencies": {
+    },
+    "devDependencies": {
+    },
+    "main" : ".",
+    "scripts": {
+        "test": "node ./test.js"
+    },
+    "license": "MIT",
+    "licenses": [{
+        "type": "The MIT License",
+        "url": "http://www.opensource.org/licenses/mit-license.php"
+    }]
+}
